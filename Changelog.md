@@ -1,4 +1,4 @@
-# Version 0.9.5
+# Version 0.9.6
 - Smoother and faster scrolling.
 - Faster processing of changes when inserting vertical space in large documents.
 - NEW: unidirectional and bidirectional arrows (can also be snapped to grid).
