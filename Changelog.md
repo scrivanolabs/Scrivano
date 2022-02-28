@@ -1,6 +1,6 @@
 # Version 0.9.8
 - Fixed bug that caused the canvas to not add pages automatically.
-- 
+
 # Version 0.9.6
 - Smoother and faster scrolling.
 - Faster processing of changes when inserting vertical space in large documents.
