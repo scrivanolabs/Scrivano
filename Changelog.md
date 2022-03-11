@@ -1,3 +1,14 @@
+# Version 0.9.10
+- NEW: Partial eraser for erasing parts of a stroke or shape.
+- NEW: Added option to clear the entire document.
+- FIX: changing width of a selected stroke now works properly.
+- FIX: bug that cause some parts of the canvas to become invisible when zooming out.
+- PDF are now exported in dark mode when it is enabled.
+- Spacing for thin dashed strokes has been adjusted.
+- Arrow heads now have a more appropriate for small thicknesses.
+- Fixed some typos in the about dialog.
+- Other minor adjustments.
+
 # Version 0.9.9
 - Fixed critical bug that prevented the application from crashing during startup
 
