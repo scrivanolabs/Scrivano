@@ -1,3 +1,6 @@
+# Version 0.9.9
+- Fixed critical bug that prevented the application from crashing during startup
+
 # Version 0.9.8
 - Fixed bug that caused the canvas to not add pages automatically.
 
