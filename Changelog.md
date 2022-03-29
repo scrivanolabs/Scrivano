@@ -2,7 +2,7 @@
 - Reduced latency of ink strokes on Windows 10/11.
 - Added tooltips for toolbar buttons when hovered.
 - Fixed a bug that prevented images from being deleted when selected.
-- Disabled annoying visual feedback when pen is pressed on the canvas.
+- Disabled annoying visual feedback when pen is pressed on the canvas on Windows 10/11.
 - Improved precision of eraser tool.
 
 # Version 0.9.11
